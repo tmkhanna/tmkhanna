@@ -1,1 +1,5 @@
-Hi my name is @tmkhanna and I am a student at Cornell University
+I am a current Master in Engineering student in Operations Research with a concentration in Data Analytics. I recently completed my Bachelor's Degree from Cornell with a major in Electrical and Computer Engineering and a minor in Operations Research and Information Engineering. With this cross-section in my education, I have already developed skills within data science and machine learning as well as software concepts and signal analysis. 
+
+I am interested in working within Data Analytics and I have experience in this field both with my work at Cornell through classes and my TA position as well as internship experience this past summer at Tata Consultancy Services where data was paired with web development. 
+
+In addition to my technical skills, I also have experience working on a team with both Cornell's Society of Women Engineers organizing a semesterly newsletter as well as volunteering as an Orientation Supervisor on campus. My past experience has helped me develop a strong ability to multitask and I believe my work ethic will benefit me when applying my skills and experiences upon graduation.
